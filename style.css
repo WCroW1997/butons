@@ -214,3 +214,7 @@ a{
 .btn5:hover::after{
     width: 100%;
 }
+
+.btn6{
+    background: none;
+}
